@@ -40,6 +40,22 @@ The database was created using SQLite and contains three connected tables: Artis
 ## Database Diagram
 
 ![Music Library ERD](MusicLibrary_ERD.png)
+
+## Database Tables
+
+The following screenshots show the records stored in each table of the SQLite database.
+
+### Artists
+
+![Artists Table](artists-table.png)
+
+### Albums
+
+![Albums Table](albums-table.png)
+
+### Songs
+
+![Songs Table](songs-table.png)
 ## SQL Skills Demonstrated
 
 The project includes examples of:
