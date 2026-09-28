@@ -37,7 +37,9 @@ The database was created using SQLite and contains three connected tables: Artis
 - One album can have multiple songs.
 - `Albums.ArtistID` connects albums to artists.
 - `Songs.AlbumID` connects songs to albums.
+## Database Diagram
 
+![Music Library ERD](MusicLibrary_ERD.png)
 ## SQL Skills Demonstrated
 
 The project includes examples of:
