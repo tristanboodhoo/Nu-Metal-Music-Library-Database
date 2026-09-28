@@ -71,4 +71,13 @@ The project includes examples of:
 ## Project Purpose
 
 This project helped me practice relational database design, primary and foreign keys, normalization, and SQL queries. It also gave me experience organizing related information into multiple tables instead of storing everything in one large table.
+## Some of My Favorite Albums
 
+### Linkin Park — Hybrid Theory
+![Hybrid Theory](hybrid-theory.jpg)
+
+### Linkin Park — Meteora
+![Meteora](meteora.jpg)
+
+### System of a Down — Toxicity
+![Toxicity](toxicity.jpg)
